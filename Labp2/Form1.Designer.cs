@@ -204,9 +204,9 @@
             label18.BackColor = Color.FromArgb(255, 192, 255);
             label18.Location = new Point(591, 143);
             label18.Name = "label18";
-            label18.Size = new Size(78, 20);
+            label18.Size = new Size(77, 20);
             label18.TabIndex = 36;
-            label18.Text = "คะแนนเฉลี่บ";
+            label18.Text = "คะแนนเฉลี่ย";
             // 
             // label17
             // 
